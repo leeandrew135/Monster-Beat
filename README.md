@@ -1,10 +1,6 @@
 # Monster-Beat
 
-### CS2212 Educational Game
-
----
-
-### CS 2212 Team 34
+### CS2212 Team 34 Educational Game
 
 ---
 
